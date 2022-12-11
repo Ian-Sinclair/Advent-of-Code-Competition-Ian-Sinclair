@@ -1,7 +1,5 @@
 
 
-
-
 def part1(input : list) :
     out = 0
     for team in input :
